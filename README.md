@@ -22,8 +22,10 @@ Instalasi
 Kontribusi
 Kontribusi dalam bentuk pull request sangat diterima. Pastikan untuk mengikuti panduan kontribusi dan aturan kode yang berlaku.
 
-Lisensi
-Proyek ini dilisensikan di bawah [Muhammad Idrus Waliulu]. Silakan lihat file LICENSE.md untuk informasi lebih lanjut.
+## Lisensi
+
+Proyek ini dilisensikan di bawah lisensi MIT. Silakan lihat file [LICENSE.md](LICENSE.md) untuk informasi lebih lanjut.
+
 
 Kontak
 Jika Anda memiliki pertanyaan atau ingin berkontribusi pada proyek ini, silakan hubungi Muhammad Idrus Waliulu melalui email di infowebprogram@gmail.com.
